@@ -10,7 +10,7 @@ from tornado.ioloop import IOLoop
 
 class MainHandler(RequestHandler):
     def get(self):
-        input = self.get_argument('user', 'none')
+        input = self.get_argument('user', 'there')
         self.write('Hello, ' + input)
 
 
