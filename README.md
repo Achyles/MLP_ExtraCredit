@@ -1,5 +1,6 @@
 # MLP_ExtraCredit
 
+Run the following command in terminal.
 
 ``` bash
     >> docker build -t mlp_extracredit .
