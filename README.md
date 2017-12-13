@@ -9,5 +9,7 @@ Run the following command in terminal.
 Visit [http://localhost:7777/?user=JiaqianChen](http://localhost:7777/?user=JiaqianChen) will print "Hello, JiaqianChen".
 
 by Jiaqian Chen,jc4676
+
 COMS4995 Machine Learning Products
+
 Prof. Adam Kelleher
