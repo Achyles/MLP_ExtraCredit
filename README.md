@@ -1,12 +1,16 @@
 # MLP_ExtraCredit
 
-Run the following command in terminal.
+[Docker](https://www.docker.com) app is needed.
+
+1. Open the Docker.app.
+
+2. Run the following command in terminal.
 
 ``` bash
     >> docker build -t mlp_extracredit .
     >> sudo docker run -p 7777:7777 mlp_extracredit
 ```
-Visit [http://localhost:7777/?user=JiaqianChen](http://localhost:7777/?user=JiaqianChen) will print "Hello, JiaqianChen".
+3. Visit [http://localhost:7777/?user=JiaqianChen](http://localhost:7777/?user=JiaqianChen) will print "Hello, JiaqianChen".
 
 by Jiaqian Chen,jc4676
 
